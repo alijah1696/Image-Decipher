@@ -1,6 +1,5 @@
 /*
  * functions.c
- * Darius-Stefan Iavorschi
  * Alijah Jackson
  * 1/30/2025
  * CS 40 filesofpix
